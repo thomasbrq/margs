@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "readme": "cpp",
+        "margs.h": "c",
+        "unistd.h": "c",
+        "getopt.h": "c"
+    }
+}
